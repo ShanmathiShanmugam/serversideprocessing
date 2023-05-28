@@ -151,10 +151,11 @@ def rectarea(request):
 
 ## OUTPUT:
 
-![OUTPUT](./serveroutput.png)
+![serveroutput](https://github.com/ShanmathiShanmugam/serversideprocessing/assets/121243595/906b685d-22dc-4c14-b659-c42662bf75e3)
 
 ### Home Page:
-![HOMEPAGE](./output.png)
+
+![output](https://github.com/ShanmathiShanmugam/serversideprocessing/assets/121243595/98c92fe2-de61-4f43-a841-e402a6505b22)
 
 
 ## Result:
