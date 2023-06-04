@@ -31,7 +31,7 @@ Publish the website in the given URL.
 
 ## PROGRAM :
 ### math.html
-```
+```html
 <html>
 <head>
 <meta charset='utf-8'>
@@ -98,7 +98,7 @@ Area : <input type="text" name="area" value="{{area}}"></input>m<sup>2</sup><br/
 ```
 
 ### result.html
-```
+```html
 <!DOCTYPE html>
 <html>
     <head>
@@ -110,7 +110,7 @@ Area : <input type="text" name="area" value="{{area}}"></input>m<sup>2</sup><br/
 </html>
 ```
 ### urls.py
-```
+```python
 from django.contrib import admin
 from django.urls import path
 from myapp import views
@@ -124,7 +124,7 @@ urlpatterns = [
 ```
 
 ### views.py
-```
+```python
 from django.shortcuts import render
 from django.template  import loader
 from django.shortcuts import render
